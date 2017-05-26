@@ -12,6 +12,7 @@
 		626521971DBCF91C00912C81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 626521951DBCF91C00912C81 /* Main.storyboard */; };
 		626521991DBCF91C00912C81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 626521981DBCF91C00912C81 /* Assets.xcassets */; };
 		6265219C1DBCF91C00912C81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6265219A1DBCF91C00912C81 /* LaunchScreen.storyboard */; };
+		626521A41DBCF94D00912C81 /* vermont.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 626521A31DBCF94D00912C81 /* vermont.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		626521981DBCF91C00912C81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6265219B1DBCF91C00912C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6265219D1DBCF91C00912C81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		626521A31DBCF94D00912C81 /* vermont.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vermont.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				626521911DBCF91C00912C81 /* AppDelegate.swift */,
 				626521931DBCF91C00912C81 /* ViewController.swift */,
 				626521951DBCF91C00912C81 /* Main.storyboard */,
+				626521A31DBCF94D00912C81 /* vermont.jpg */,
 				626521981DBCF91C00912C81 /* Assets.xcassets */,
 				6265219A1DBCF91C00912C81 /* LaunchScreen.storyboard */,
 				6265219D1DBCF91C00912C81 /* Info.plist */,
@@ -91,7 +94,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = justDFD;
 				TargetAttributes = {
 					6265218D1DBCF91C00912C81 = {
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6265219C1DBCF91C00912C81 /* LaunchScreen.storyboard in Resources */,
+				626521A41DBCF94D00912C81 /* vermont.jpg in Resources */,
 				626521991DBCF91C00912C81 /* Assets.xcassets in Resources */,
 				626521971DBCF91C00912C81 /* Main.storyboard in Resources */,
 			);
@@ -182,6 +186,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -232,6 +237,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -302,6 +308,7 @@
 				626521A21DBCF91C00912C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
